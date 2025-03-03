@@ -1,5 +1,9 @@
 'use client';
 
-export default function ErrorOMG() {
-  return <h1>ErrorOMG!</h1>;
+export default function Error() {
+  return (
+    <div>
+      <h1>lol......404 Not Found</h1>
+    </div>
+  );
 }
